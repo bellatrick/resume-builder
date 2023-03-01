@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "react-to-print": "^2.14.12",
     "tailwindcss": "^3.2.7"
   }
 }
